@@ -1,7 +1,7 @@
 <h1>Access Point Breach</h1>
 
 <h2>Description</h2>
-A ticket-solving practice of changing access point configuration in an simulated environment, IT Specialist Simulator.
+A ticket-solving practice of changing access point configuration after its breach in a simulated environment, IT Specialist Simulator.
 <br />
 
 <h2>Environments Used</h2>
